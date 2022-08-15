@@ -175,7 +175,6 @@ export default {
     },
     setData(res) {
       this.data = res;
-      console.log(res);
     },
   },
   created: function () {
